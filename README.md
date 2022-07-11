@@ -1,15 +1,15 @@
 # Insurance Cross Selling ETL Pipeline
 
-An Insurance company that provide Health Insurance to its customers offers other insurance product to the customers through diffirent kind of marketing channels.A model is built to predict whether the customers will also be interested in vehicle insurance provided by the same company.
+An Insurance company that provides health insurance to its customers offers other insurance product to the customers through diffirent kind of marketing channels.A model is built to predict whether the customers will also be interested in vehicle insurance provided by the same company.
 
-## Business Questions
+## Some of the Business Questions
 
-1. How does age of a vehicle determing the response of vehicle insurance advertisment
-2. How to attract customers from different generation
-3. What are the major factors that make a health insurance customer not intersted with vehicle insurance
-4. Can an ML model be used to predict the user likeliness of buying vehicle insurance
+1. How does the age of a vehicle determine the response of vehicle insurance advertisment?
+2. How to attract customers from different generation?
+3. What are the major factors that make a health insurance customer not intersted with vehicle insurance?
+4. Can an ML model be used to predict the user likeliness of buying vehicle insurance?
 
-A data pipeline to upload Insurance data to S3 & Redshfit, connect to the warehouse and perform EDA & build an ML model. 
+A data pipeline is created to upload Insurance data to S3 & Redshfit, connect to the warehouse and perform EDA & build an ML model. 
 
 ## Architecture
 
